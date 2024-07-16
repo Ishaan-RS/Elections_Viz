@@ -10,6 +10,7 @@ The cleanup.ipynb showcases how the data was prepared for this viz.
 
 
 This uses the dataset found on kaggle. 
+
 Here is the link: https://www.kaggle.com/datasets/rubenmukherjee/india-2024-election-dataset-all-candidates
 
 
