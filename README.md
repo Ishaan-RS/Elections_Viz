@@ -2,7 +2,6 @@
 A tableau data visualization on the recent Indian Lok Sabha Elections 2024
 https://public.tableau.com/app/profile/ishaan.sharma8269/viz/Elections2024_17197414923680/Dashboard1
 
-
 The report.docx contains the brief of the dashboard with its insights and features. Also includes its applications according to me.
 
 
